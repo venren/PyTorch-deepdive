@@ -1,0 +1,7 @@
+.venv/
+
+# PyTorch checkpoint files
+*.pt
+*.pth
+*.ckpt
+*checkpoints/
